@@ -1,0 +1,22 @@
+{
+  "wheel_id": 864,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-112",
+  "project": "mortgage-broker-wollongong-investment-619a59b79adf0e492fef6dc0a",
+  "parent_t1_ref": "homeloanbrokerwollongong-155",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage broker wollongong investment",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerwollongong-112/",
+  "tier": "T2",
+  "writeback_nonce": "4128d81ee9e0bb5a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-broker-wollongong-refinancing-2a9742c0288a9dc7d9e9ddbc/",
+      "anchor": "Mortgage Broker Wollongong Refinancing: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
